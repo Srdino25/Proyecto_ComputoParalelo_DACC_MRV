@@ -1,0 +1,10 @@
+# Base de datos
+/crochet_dataset/
+/crochet_dataset.zip
+
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+.ipynb_checkpoints/
