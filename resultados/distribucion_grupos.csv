@@ -1,0 +1,14 @@
+clase,grupo,cantidad_imagenes
+medio_punto_alto,medio_punto_alto/muestra_B_1_HD,20
+medio_punto_alto,medio_punto_alto/muestra_C_2_HD,1000
+medio_punto_alto,medio_punto_alto/muestra_LB_0_HD,900
+medio_punto_alto,medio_punto_alto/muestra_PR_0,100
+medio_punto_alto,medio_punto_alto/muestra_PV_0,100
+medio_punto_alto,medio_punto_alto/muestra_P_0,100
+medio_punto_alto,medio_punto_alto/muestra_Y_1_HD,900
+punto_alto,punto_alto/muestra_DB_0_DC,960
+punto_alto,punto_alto/muestra_PR_0,100
+punto_alto,punto_alto/muestra_PV_0,100
+punto_bajo,punto_bajo/muestra_O_0_SC,900
+punto_bajo,punto_bajo/muestra_PR_0,80
+punto_bajo,punto_bajo/muestra_P_0,40
